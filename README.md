@@ -15,9 +15,7 @@ This is a simple prototype of the classic Minesweeper game built using SwiftUI. 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eb76d930-913e-40ba-8418-a574af8b6069" width="200" alt="Home Screen">
-  <img src="https://github.com/user-attachments/assets/4310d7b8-a769-4e1d-be16-a11a8c160a3f" width="200" alt="Create NFT">
-  <img src="https://github.com/user-attachments/assets/bc032f66-24ce-4755-a319-7260f34f6210" width="200" alt="Profile">
+  <img src="https://github.com/user-attachments/assets/204d4be9-5032-48ec-95d8-c50d4afa44fa" width="200" alt="Home Screen">
 </p>
 
 ## 🎥 Demo
