@@ -21,7 +21,7 @@ This is a simple prototype of the classic Minesweeper game built using SwiftUI. 
 ## 🎥 Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9936fa48-7ffb-4682-acb7-063eeb5d2d74" width="250" alt="App Demo">
+  <img src="https://github.com/user-attachments/assets/02f83593-ec1d-4cda-9b35-230d6c403dd4" width="250" alt="App Demo">
 </p>
 ## Requirements
 
